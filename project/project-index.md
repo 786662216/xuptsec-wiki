@@ -1,1 +1,0 @@
-* [安全类开源项目精选 - 安全客](https://www.anquanke.com/opensource)
